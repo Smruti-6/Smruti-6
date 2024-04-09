@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Smruti-6
 - 👀 I’m interested in web Devlopment
 - 🌱 I’m currently learning BCA
-- 📫 How to reach me email-smrutisouravjena555@gmail.com
+- 📫 To reach me email-smrutisouravjena555@gmail.com
 
 
 <!---
